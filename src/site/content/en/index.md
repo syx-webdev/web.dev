@@ -8,7 +8,7 @@ i18n:
   banner_blm_html: |
     Google is committed to advancing racial equity for Black communities.
     <a href="https://google.com/racialequity" target="_blank" rel="noopener">See how</a>.
-  headline: Let's build the future of the web
+  headline: Let's build the future of the web. Another test.
   subheadline: |
     Get the web's modern capabilities on your own sites and apps with useful
     guidance and analysis from web.dev.
