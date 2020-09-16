@@ -29,4 +29,5 @@ i18n:
   save_subheadline: |
     See how your website performs over time, and keep track as you learn on
     your own schedule.
+translated: 2020-09-16
 ---
