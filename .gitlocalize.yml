@@ -21,3 +21,5 @@ pretranslate:
   - source: "src/site/content/en"
     include:
     - "accessible/*.*"
+    - "discoverable/*.*"
+ 
